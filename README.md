@@ -16,7 +16,7 @@ The objectives of the project are as follows:
 ## Summary
 | Code | Name                                                | Published Article                                                                                          | Deployed App                                                                                                 | Streamlit App                                                                                                |
 |------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| LP6  | Sepsis Prediction App with FastAPI and Streamlit     | [Medium Article](https://medium.com/@richmensah1997/predicting-sepsis-status-of-patients-using-machine-learning-model-fa848fce0fe8) | [MY FastAPI App](https://huggingface.co/spaces/RICHARDMENSAH/Sepsis-Prediction-APP-using-FASTAPI-and-Machine-Learning)                        | [MY Streamlit App](https://huggingface.co/spaces/RICHARDMENSAH/SEPSIS-PREDICTION-STATUS-APP)                    |
+| LP6  | Sepsis Prediction App with FastAPI and Streamlit     | [📚Medium Article ](https://medium.com/@richmensah1997/predicting-sepsis-status-of-patients-using-machine-learning-model-fa848fce0fe8) | [MY FastAPI App](https://huggingface.co/spaces/RICHARDMENSAH/Sepsis-Prediction-APP-using-FASTAPI-and-Machine-Learning)                        | [MY Streamlit App](https://huggingface.co/spaces/RICHARDMENSAH/SEPSIS-PREDICTION-STATUS-APP)                    |
 
 
 
